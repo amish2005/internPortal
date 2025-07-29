@@ -1,0 +1,17 @@
+# ENV files
+*.env
+**/.env
+
+# Node modules
+node_modules/
+**/node_modules/
+
+# Build folders
+build/
+dist/
+**/build/
+**/dist/
+
+# OS/IDE files
+.DS_Store
+.env.*

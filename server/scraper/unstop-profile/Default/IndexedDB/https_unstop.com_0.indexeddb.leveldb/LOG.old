@@ -1,0 +1,25 @@
+2025/07/20-00:22:06.502 2ab0 Reusing MANIFEST C:\Users\Amish\Coding\PROJECTS\job-portal\server\scraper\unstop-profile\Default\IndexedDB\https_unstop.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/20-00:22:06.549 2ab0 Recovering log #350
+2025/07/20-00:22:06.550 2ab0 Reusing old log C:\Users\Amish\Coding\PROJECTS\job-portal\server\scraper\unstop-profile\Default\IndexedDB\https_unstop.com_0.indexeddb.leveldb/000350.log 
+2025/07/20-00:22:06.551 2ab0 Delete type=2 #349
+2025/07/20-00:22:06.582 195c Level-0 table #355: started
+2025/07/20-00:22:06.605 195c Level-0 table #355: 773 bytes OK
+2025/07/20-00:22:06.607 195c Delete type=0 #350
+2025/07/20-00:22:06.607 195c Manual compaction at level-0 from '\x00x\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00y\x00\x00\x00' @ 0 : 0; will stop at '\x00x\x00\x00\x05' @ 10058 : 1
+2025/07/20-00:22:06.608 195c Compacting 1@0 + 1@1 files
+2025/07/20-00:22:06.612 195c Generated table #356@0: 918 keys, 13841 bytes
+2025/07/20-00:22:06.613 195c Compacted 1@0 + 1@1 files => 13841 bytes
+2025/07/20-00:22:06.616 195c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/07/20-00:22:06.617 195c Delete type=2 #355
+2025/07/20-00:22:06.617 195c Manual compaction at level-0 from '\x00x\x00\x00\x05' @ 10058 : 1 .. '\x00y\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/07/20-00:22:07.607 4edc Level-0 table #358: started
+2025/07/20-00:22:07.654 4edc Level-0 table #358: 809 bytes OK
+2025/07/20-00:22:07.655 4edc Delete type=2 #352
+2025/07/20-00:22:07.655 4edc Delete type=0 #354
+2025/07/20-00:22:07.656 195c Manual compaction at level-0 from '\x00y\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00z\x00\x00\x00' @ 0 : 0; will stop at '\x00y\x00\x00\x05' @ 10077 : 1
+2025/07/20-00:22:07.656 195c Compacting 1@0 + 1@1 files
+2025/07/20-00:22:07.661 195c Generated table #359@0: 919 keys, 14136 bytes
+2025/07/20-00:22:07.661 195c Compacted 1@0 + 1@1 files => 14136 bytes
+2025/07/20-00:22:07.662 195c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/07/20-00:22:07.663 195c Delete type=2 #358
+2025/07/20-00:22:07.664 195c Manual compaction at level-0 from '\x00y\x00\x00\x05' @ 10077 : 1 .. '\x00z\x00\x00\x00' @ 0 : 0; will stop at (end)
